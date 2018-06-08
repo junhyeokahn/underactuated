@@ -5,3 +5,4 @@ build/
 examples/
 */.ipynb_checkpoints
 venv
+tags
